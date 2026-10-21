@@ -26,4 +26,4 @@ passed the Cloud2Grid licence gate for `redistribute_derived`.
 
 Cloud2Grid modified these data: satellite imagery re-encoded (WebP) and overlaid; irradiance sampled at asset locations; PV estimated with pvlib; network topology reconstructed from LTDS; loads scaled to operational data; power flows simulated.
 
-Site code: Apache License 2.0 (LICENSE). Libraries bundled in the site: React (MIT), Three.js (MIT, experimental 3D view only). Fonts: Libre Franklin and Source Serif 4, SIL Open Font License 1.1.
+Site code: Apache License 2.0 (LICENSE). Libraries bundled in the site: React (MIT). Fonts: Libre Franklin and Source Serif 4, SIL Open Font License 1.1.

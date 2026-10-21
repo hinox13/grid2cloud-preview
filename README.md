@@ -3,7 +3,7 @@
 This branch holds a **compiled static preview** of the Cloud2Grid React site, published for review at
 https://hinox13.github.io/grid2cloud-preview/
 
-- Built from the development revision `dev 0566ae6`; the authoritative source lives with the research code
+- Built from the development revision `dev 62959a7`; the authoritative source lives with the research code
   and will be published in https://github.com/hinox13/grid2cloud. No source code or research data
   are stored here.
 - `v1/`: an earlier revision kept for comparison (https://hinox13.github.io/grid2cloud-preview/v1/), built from `43cc1ea`.
