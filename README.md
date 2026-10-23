@@ -3,7 +3,7 @@
 This branch holds a **compiled static preview** of the Cloud2Grid React site, published for review at
 https://hinox13.github.io/grid2cloud-preview/
 
-- Built from the development revision `dev 586c9de`; the authoritative source lives with the research code
+- Built from the development revision `dev fd636c6`; the authoritative source lives with the research code
   and will be published in https://github.com/hinox13/grid2cloud. No source code or research data
   are stored here.
 - **Official Cloud2Grid application:** the React website, https://hinox13.github.io/grid2cloud/ (the guided experience and the
